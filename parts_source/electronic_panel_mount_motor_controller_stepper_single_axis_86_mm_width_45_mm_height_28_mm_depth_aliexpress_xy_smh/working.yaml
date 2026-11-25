@@ -1,0 +1,31 @@
+depth_cutout_mm: 3
+depth_mm: 28
+height_cutout_mm: 40.6
+height_mm: 45
+manufacturer: aliexpress
+manufacturer_part_number: xy_smh
+oobb_details:
+  run_scad: false
+  run_solidcraft: false
+supplier_link_aliexpress: https://www.aliexpress.com/item/1005010508840160.html
+supplier_part_number_aliexpress: '1005010508840160'
+taxonomy_1: electronic
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: aliexpress
+taxonomy_15: xy_smh
+taxonomy_2: panel_mount
+taxonomy_3: motor_controller
+taxonomy_4: stepper
+taxonomy_5: single_axis
+taxonomy_6: 86_mm_width
+taxonomy_7: 45_mm_height
+taxonomy_8: 28_mm_depth
+taxonomy_9: ''
+type_level_1: motor_controller
+type_level_2: stepper
+type_level_3: single_axis
+width_cutout_mm: 81.6
+width_mm: 86

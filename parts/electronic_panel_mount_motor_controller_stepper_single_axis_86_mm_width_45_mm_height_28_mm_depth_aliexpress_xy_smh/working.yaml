@@ -1,0 +1,288 @@
+bip_39_2_word_array:
+- where
+- judge
+bip_39_2_word_no_space: wherejudge
+bip_39_2_word_space: where judge
+bip_39_2_word_underscore: where_judge
+bip_39_3_word_array:
+- where
+- judge
+- garbage
+bip_39_3_word_no_space: wherejudgegarbage
+bip_39_3_word_space: where judge garbage
+bip_39_3_word_underscore: where_judge_garbage
+bip_39_full_array:
+- where
+- judge
+- garbage
+- junior
+- fire
+- slogan
+- spot
+- 'false'
+- grocery
+- 'true'
+- law
+- anxiety
+bip_39_full_no_space: wherejudgegarbagejuniorfiresloganspotfalsegrocerytruelawanxiety
+bip_39_full_space: where judge garbage junior fire slogan spot false grocery true
+    law anxiety
+bip_39_full_underscore: where_judge_garbage_junior_fire_slogan_spot_false_grocery_true_law_anxiety
+depth_cutout_mm: 3
+depth_mm: 28
+directory: parts/electronic_panel_mount_motor_controller_stepper_single_axis_86_mm_width_45_mm_height_28_mm_depth_aliexpress_xy_smh
+height_cutout_mm: 40.6
+height_mm: 45
+id: electronic_panel_mount_motor_controller_stepper_single_axis_86_mm_width_45_mm_height_28_mm_depth_aliexpress_xy_smh
+id_no_class: electronic_panel_mount_motor_controller_stepper_single_axis_86_mm_width_45_mm_height_28_mm_depth_aliexpress_xy_smh
+id_no_size: electronic_panel_mount_motor_controller_stepper_single_axis_86_mm_width_45_mm_height_28_mm_depth_aliexpress_xy_smh
+id_no_type: electronic_panel_mount_motor_controller_stepper_single_axis_86_mm_width_45_mm_height_28_mm_depth_aliexpress_xy_smh
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_panel_mount_motor_controller_stepper_single_axis_86_mm_width_45_mm_height_28_mm_depth_aliexpress_xy_smh
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_panel_mount_motor_controller_stepper_single_axis_86_mm_width_45_mm_height_28_mm_depth_aliexpress_xy_smh
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_panel_mount_motor_controller_stepper_single_axis_86_mm_width_45_mm_height_28_mm_depth_aliexpress_xy_smh
+manufacturer: aliexpress
+manufacturer_part_number: xy_smh
+md5: fa4f157e3c957397f4b29266dd29f785
+md5_10: fa4f157e3c
+md5_10_upper: FA4F157E3C
+md5_5: fa4f1
+md5_5_upper: FA4F1
+md5_6: fa4f15
+md5_6_alpha: 9rllh
+md5_6_alpha_upper: 9RLLH
+md5_6_upper: FA4F15
+name: Electronic Panel Mount Motor Controller Stepper Single Axis 86 Mm Width 45 Mm
+    Height 28 Mm Depth Aliexpress Xy Smh
+name_no_class: Electronic Panel Mount Motor Controller Stepper Single Axis 86 Mm Width
+    45 Mm Height 28 Mm Depth Aliexpress Xy Smh
+name_no_size: Electronic Panel Mount Motor Controller Stepper Single Axis 86 Mm Width
+    45 Mm Height 28 Mm Depth Aliexpress Xy Smh
+name_no_type: Electronic Panel Mount Motor Controller Stepper Single Axis 86 Mm Width
+    45 Mm Height 28 Mm Depth Aliexpress Xy Smh
+name_proper: Electronic Panel Mount Motor Controller Stepper Single Axis 86 Mm Width
+    45 Mm Height 28 Mm Depth Aliexpress Xy Smh
+name_space: electronic panel mount motor controller stepper single axis 86 mm width
+    45 mm height 28 mm depth aliexpress xy smh
+name_upper: ELECTRONIC PANEL MOUNT MOTOR CONTROLLER STEPPER SINGLE AXIS 86 MM WIDTH
+    45 MM HEIGHT 28 MM DEPTH ALIEXPRESS XY SMH
+oobb_details:
+    run_scad: false
+    run_solidcraft: false
+oomlout_ai_roboclick_1:
+    action_name: step_0_jinja_template_label_oomp.svg
+    actions:
+    -   command: text_jinja_template
+        convert_to_pdf: false
+        convert_to_png: false
+        dict_data:
+            depth_cutout_mm: 3
+            depth_mm: 28
+            directory: parts\electronic_panel_mount_motor_controller_stepper_single_axis_86_mm_width_45_mm_height_28_mm_depth_aliexpress_xy_smh
+            height_cutout_mm: 40.6
+            height_mm: 45
+            manufacturer: aliexpress
+            manufacturer_part_number: xy_smh
+            name: electronic_panel_mount_motor_controller_stepper_single_axis_86_mm_width_45_mm_height_28_mm_depth_aliexpress_xy_smh
+            name_proper: Electronic Panel Mount Motor Controller Stepper Single Axis
+                86 Mm Width 45 Mm Height 28 Mm Depth Aliexpress Xy Smh
+            name_space: electronic panel mount motor controller stepper single axis
+                86 mm width 45 mm height 28 mm depth aliexpress xy smh
+            name_upper: ELECTRONIC PANEL MOUNT MOTOR CONTROLLER STEPPER SINGLE AXIS
+                86 MM WIDTH 45 MM HEIGHT 28 MM DEPTH ALIEXPRESS XY SMH
+            oobb_details:
+                run_scad: false
+                run_solidcraft: false
+            supplier_link_aliexpress: https://www.aliexpress.com/item/1005010508840160.html
+            supplier_part_number_aliexpress: '1005010508840160'
+            taxonomy_1: electronic
+            taxonomy_10: ''
+            taxonomy_11: ''
+            taxonomy_12: ''
+            taxonomy_13: ''
+            taxonomy_14: aliexpress
+            taxonomy_15: xy_smh
+            taxonomy_2: panel_mount
+            taxonomy_3: motor_controller
+            taxonomy_4: stepper
+            taxonomy_5: single_axis
+            taxonomy_6: 86_mm_width
+            taxonomy_7: 45_mm_height
+            taxonomy_8: 28_mm_depth
+            taxonomy_9: ''
+            type_level_1: motor_controller
+            type_level_2: stepper
+            type_level_3: single_axis
+            url_chat: ''
+            width_cutout_mm: 81.6
+            width_mm: 86
+        dict_data_files: {}
+        dict_data_files_exists: {}
+        file_output: label_oomp.svg
+        file_template: C:\gh\oomp_electronic_panel_mount_version_5\source_file\template_jinja\template_jinja_label_oomlout_76_2_mm_50_8_mm\working.svg.j2
+        search_and_replace: []
+    file_test: label_oomp.pdf
+    retries_until_complete: 0
+oomp_key: oomp_electronic_panel_mount_motor_controller_stepper_single_axis_86_mm_width_45_mm_height_28_mm_depth_aliexpress_xy_smh
+supplier_link_aliexpress: https://www.aliexpress.com/item/1005010508840160.html
+supplier_part_number_aliexpress: '1005010508840160'
+taxonomy_1: electronic
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: aliexpress
+taxonomy_14_capital: Aliexpress
+taxonomy_14_first_letter: a
+taxonomy_14_first_letter_upper: A
+taxonomy_14_length_1: a
+taxonomy_14_length_2: al
+taxonomy_14_length_3: ali
+taxonomy_14_length_4: alie
+taxonomy_14_length_5: aliex
+taxonomy_14_upper: ALIEXPRESS
+taxonomy_14_upper_length_1: A
+taxonomy_14_upper_length_2: AL
+taxonomy_14_upper_length_3: ALI
+taxonomy_14_upper_length_4: ALIE
+taxonomy_14_upper_length_5: ALIEX
+taxonomy_15: xy_smh
+taxonomy_15_capital: Xy Smh
+taxonomy_15_first_letter: x
+taxonomy_15_first_letter_upper: X
+taxonomy_15_length_1: x
+taxonomy_15_length_2: xy
+taxonomy_15_length_3: xy_
+taxonomy_15_length_4: xy_s
+taxonomy_15_length_5: xy_sm
+taxonomy_15_upper: XY_SMH
+taxonomy_15_upper_length_1: X
+taxonomy_15_upper_length_2: XY
+taxonomy_15_upper_length_3: XY_
+taxonomy_15_upper_length_4: XY_S
+taxonomy_15_upper_length_5: XY_SM
+taxonomy_1_capital: Electronic
+taxonomy_1_first_letter: e
+taxonomy_1_first_letter_upper: E
+taxonomy_1_length_1: e
+taxonomy_1_length_2: el
+taxonomy_1_length_3: ele
+taxonomy_1_length_4: elec
+taxonomy_1_length_5: elect
+taxonomy_1_upper: ELECTRONIC
+taxonomy_1_upper_length_1: E
+taxonomy_1_upper_length_2: EL
+taxonomy_1_upper_length_3: ELE
+taxonomy_1_upper_length_4: ELEC
+taxonomy_1_upper_length_5: ELECT
+taxonomy_2: panel_mount
+taxonomy_2_capital: Panel Mount
+taxonomy_2_first_letter: p
+taxonomy_2_first_letter_upper: P
+taxonomy_2_length_1: p
+taxonomy_2_length_2: pa
+taxonomy_2_length_3: pan
+taxonomy_2_length_4: pane
+taxonomy_2_length_5: panel
+taxonomy_2_upper: PANEL_MOUNT
+taxonomy_2_upper_length_1: P
+taxonomy_2_upper_length_2: PA
+taxonomy_2_upper_length_3: PAN
+taxonomy_2_upper_length_4: PANE
+taxonomy_2_upper_length_5: PANEL
+taxonomy_3: motor_controller
+taxonomy_3_capital: Motor Controller
+taxonomy_3_first_letter: m
+taxonomy_3_first_letter_upper: M
+taxonomy_3_length_1: m
+taxonomy_3_length_2: mo
+taxonomy_3_length_3: mot
+taxonomy_3_length_4: moto
+taxonomy_3_length_5: motor
+taxonomy_3_upper: MOTOR_CONTROLLER
+taxonomy_3_upper_length_1: M
+taxonomy_3_upper_length_2: MO
+taxonomy_3_upper_length_3: MOT
+taxonomy_3_upper_length_4: MOTO
+taxonomy_3_upper_length_5: MOTOR
+taxonomy_4: stepper
+taxonomy_4_capital: Stepper
+taxonomy_4_first_letter: s
+taxonomy_4_first_letter_upper: S
+taxonomy_4_length_1: s
+taxonomy_4_length_2: st
+taxonomy_4_length_3: ste
+taxonomy_4_length_4: step
+taxonomy_4_length_5: stepp
+taxonomy_4_upper: STEPPER
+taxonomy_4_upper_length_1: S
+taxonomy_4_upper_length_2: ST
+taxonomy_4_upper_length_3: STE
+taxonomy_4_upper_length_4: STEP
+taxonomy_4_upper_length_5: STEPP
+taxonomy_5: single_axis
+taxonomy_5_capital: Single Axis
+taxonomy_5_first_letter: s
+taxonomy_5_first_letter_upper: S
+taxonomy_5_length_1: s
+taxonomy_5_length_2: si
+taxonomy_5_length_3: sin
+taxonomy_5_length_4: sing
+taxonomy_5_length_5: singl
+taxonomy_5_upper: SINGLE_AXIS
+taxonomy_5_upper_length_1: S
+taxonomy_5_upper_length_2: SI
+taxonomy_5_upper_length_3: SIN
+taxonomy_5_upper_length_4: SING
+taxonomy_5_upper_length_5: SINGL
+taxonomy_6: 86_mm_width
+taxonomy_6_capital: 86 mm Width
+taxonomy_6_first_letter: '8'
+taxonomy_6_first_letter_upper: '8'
+taxonomy_6_length_1: '8'
+taxonomy_6_length_2: '86'
+taxonomy_6_length_3: '86_'
+taxonomy_6_length_4: 86_m
+taxonomy_6_length_5: 86_mm
+taxonomy_6_upper: 86_MM_WIDTH
+taxonomy_6_upper_length_1: '8'
+taxonomy_6_upper_length_2: '86'
+taxonomy_6_upper_length_3: '86_'
+taxonomy_6_upper_length_4: 86_M
+taxonomy_6_upper_length_5: 86_MM
+taxonomy_7: 45_mm_height
+taxonomy_7_capital: 45 mm Height
+taxonomy_7_first_letter: '4'
+taxonomy_7_first_letter_upper: '4'
+taxonomy_7_length_1: '4'
+taxonomy_7_length_2: '45'
+taxonomy_7_length_3: '45_'
+taxonomy_7_length_4: 45_m
+taxonomy_7_length_5: 45_mm
+taxonomy_7_upper: 45_MM_HEIGHT
+taxonomy_7_upper_length_1: '4'
+taxonomy_7_upper_length_2: '45'
+taxonomy_7_upper_length_3: '45_'
+taxonomy_7_upper_length_4: 45_M
+taxonomy_7_upper_length_5: 45_MM
+taxonomy_8: 28_mm_depth
+taxonomy_8_capital: 28 mm Depth
+taxonomy_8_first_letter: '2'
+taxonomy_8_first_letter_upper: '2'
+taxonomy_8_length_1: '2'
+taxonomy_8_length_2: '28'
+taxonomy_8_length_3: '28_'
+taxonomy_8_length_4: 28_m
+taxonomy_8_length_5: 28_mm
+taxonomy_8_upper: 28_MM_DEPTH
+taxonomy_8_upper_length_1: '2'
+taxonomy_8_upper_length_2: '28'
+taxonomy_8_upper_length_3: '28_'
+taxonomy_8_upper_length_4: 28_M
+taxonomy_8_upper_length_5: 28_MM
+taxonomy_9: ''
+type_level_1: motor_controller
+type_level_2: stepper
+type_level_3: single_axis
+url_chat: ''
+width_cutout_mm: 81.6
+width_mm: 86
